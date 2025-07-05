@@ -3,10 +3,16 @@ title: "Good posts read recently"
 date: 2025-07-03
 ---
 
-<https://simonwillison.net/2025/Jun/29/agentic-coding/>
+<a href="https://simonwillison.net/2025/Jun/29/agentic-coding/">https://simonwillison.net/2025/Jun/29/agentic-coding/</a>
+
 +1 local binaries without mcp
+
 Playwright is interesting
-<https://www.philschmid.de/context-engineering>
+
+<a href="https://www.philschmid.de/context-engineering">https://www.philschmid.de/context-engineering</a>
+
 +1 context is the key for llm applications
-<https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin>
-This matches my previous thoughts. See <https://ferryzhou.wordpress.com/2025/06/08/claude-github-agent-mcp-integration-and-productivity/>
+
+<a href="https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin">https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin</a>
+
+This matches my previous thoughts. See <a href="https://ferryzhou.wordpress.com/2025/06/08/claude-github-agent-mcp-integration-and-productivity/">https://ferryzhou.wordpress.com/2025/06/08/claude-github-agent-mcp-integration-and-productivity/</a>
