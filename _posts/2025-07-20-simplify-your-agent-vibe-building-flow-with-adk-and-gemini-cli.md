@@ -1,5 +1,5 @@
 ---
-title: "Simplify your Agent "vibe building" flow with ADK and Gemini CLI"
+title: "Simplify your Agent 'vibe building' flow with ADK and Gemini CLI"
 date: 2025-07-20
 ---
 
