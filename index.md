@@ -5,7 +5,7 @@ subtitle: "fragments of thoughts and time."
 ---
 
 <div class="posts">
-  {% for post in site.posts limit:10 %}
+  {% for post in site.posts limit:50 %}
     <article class="post">
       <h2 class="post-title">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -21,7 +21,7 @@ subtitle: "fragments of thoughts and time."
         {% if post.excerpt %}
           {{ post.excerpt }}
         {% else %}
-          {{ post.content | strip_html | truncatewords: 100 }}
+          {{ post.content | strip_html | truncatewords: 200 }}
         {% endif %}
       </div>
       
